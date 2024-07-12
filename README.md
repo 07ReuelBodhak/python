@@ -8,3 +8,5 @@
 - **Conditionals** : [link](./Conditionals/README.md)
 - **Loops** : [link](./Loops/README.md)
 - **Lists** : [link](./Functions/README.md)
+- **Dictionary** : [link](./Dictionary/README.md)
+- **Sets** : [link](./Sets/README.md)
