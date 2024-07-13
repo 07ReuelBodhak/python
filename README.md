@@ -10,3 +10,5 @@
 - **Lists** : [link](./Functions/README.md)
 - **Dictionary** : [link](./Dictionary/README.md)
 - **Sets** : [link](./Sets/README.md)
+- **UserdefinedFunction** : [link](./UserdefineFunction/README.md)
+- **AdvanceFunction** : [link](./AdvanceFunction/README.md)
