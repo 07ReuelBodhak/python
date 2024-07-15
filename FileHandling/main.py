@@ -27,6 +27,7 @@ file.close()
 file = open("abc.txt","r")
 content = file.read()
 print(content)
+file.flush()
 file.close()
 
 ## reading and writing file with "with" statement
@@ -36,6 +37,7 @@ with open("example.txt","a+") as file:
     content = file.read()
     print(content)
     file.write("\nwritten by St.Jerome")
+    file.flush()
     file.seek(0)
     content = file.read()
     print("after adding author : ",content)
