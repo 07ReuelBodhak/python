@@ -17,3 +17,4 @@
 - **ExceptionHandling** : [link](./ExceptionHandling/README.md)
 - **StandardLibraries** : [link](./StandardLibraries/README.md)
 - **Classes&Objects** : [link](./Classes&Objects/README.md)
+- **Inheritance** : [link](./Inheritence/REDME.md)
