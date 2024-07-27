@@ -1,6 +1,6 @@
 # Encapsulation and Abstraction
 
-Both encapsulation and data hiding are the concept of OOP
+Both encapsulation and Abstraction are the concept of OOP
 
 ### 1. Encapsulation
 
