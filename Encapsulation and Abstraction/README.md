@@ -1,6 +1,6 @@
 # Encapsulation and Abstraction
 
-Both encapsulation and data hiding are the concept of OOP
+Both encapsulation and Abstraction are the concept of OOP
 
 ### 1. Encapsulation
 
@@ -43,7 +43,7 @@ C = Car("Toyota", "Red", 2016)
 C.displayInfo()
 print()
 
-# Modifying public and protected variables directly
+# Modifying public and private variable directly
 C.brand = "Audi"
 # C.__year = 2018  # This will give an error due to name mangling
 C.changeYear(2015)
