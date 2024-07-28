@@ -5,7 +5,7 @@ class Game(ABC):
     def takeDamage(self):
         pass
 
-class Health(Game):
+class Health:
     def __init__(self):
         self.__health = 100
     
@@ -26,7 +26,7 @@ class Health(Game):
         print(f"You have taken {dmg} damage")
         print(f"your current heath : {self.getHealth()}")
 
-class Bomb(Health):
+class Bomb(Health,Game):
     def Burn(self):
         self.takeDamage(10)
     
