@@ -20,3 +20,4 @@
 - **Inheritance** : [link](./Inheritence/REDME.md)
 - **Polymorphism** : [link](./Polymorphism/README.md)
 - **Encapsulation and Abstraction** : [link](./Encapsulation%20and%20Abstraction/README.md)
+- **Special Methods** : [link](./Special%20Methods/README.md)
